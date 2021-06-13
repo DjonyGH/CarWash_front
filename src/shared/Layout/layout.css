@@ -1,0 +1,7 @@
+.layout {
+  width: 100wv;
+  height: 100vh;
+  margin: 0 auto;
+  background: url(../../assets/img/main-bg.jpg) no-repeat center center;
+  background-size: cover;
+}
