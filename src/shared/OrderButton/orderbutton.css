@@ -1,6 +1,6 @@
 .orderButton {
   color: var(--white);
-  font-size: 28px;
+  font-size: 20px;
   font-weight: 700;
   width: 200px;
   height: 60px;
@@ -15,6 +15,7 @@
   cursor: pointer;
   outline: none;
   z-index: 5;
+  text-transform: uppercase;
 }
 .orderButton:hover {
   box-shadow: 0 0 10px var(--white);

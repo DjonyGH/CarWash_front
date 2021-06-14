@@ -1,3 +1,6 @@
-.icon:hover {
-  box-shadow: 0 0 10px var(--white);
+.icon {
+  color: var(--white);
 }
+/* .icon:hover {
+  box-shadow: 0 0 10px var(--white);
+} */

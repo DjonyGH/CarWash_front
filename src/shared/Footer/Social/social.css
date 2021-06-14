@@ -9,6 +9,8 @@
   padding: 0;
   text-decoration: none;
   cursor: pointer;
+  width: 28px;
+  height: 28px;
 }
 /* .social_item:hover {
   box-shadow: 0 0 10px var(--white);
@@ -18,4 +20,5 @@
 }
 .link {
   text-decoration: none;
+  color: var(--white);
 }
