@@ -1,0 +1,21 @@
+.social {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: flex-end;
+}
+.social_item {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  cursor: pointer;
+}
+/* .social_item:hover {
+  box-shadow: 0 0 10px var(--white);
+} */
+.social_item:not(:last-child) {
+  margin-right: 50px;
+}
+.link {
+  text-decoration: none;
+}

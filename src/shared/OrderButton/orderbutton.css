@@ -1,0 +1,21 @@
+.orderButton {
+  color: var(--white);
+  font-size: 28px;
+  font-weight: 700;
+  width: 200px;
+  height: 60px;
+  background: var(--blue);
+  position: absolute;
+  left: 200px;
+  top: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+  z-index: 5;
+}
+.orderButton:hover {
+  box-shadow: 0 0 10px var(--white);
+}

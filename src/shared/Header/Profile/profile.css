@@ -1,0 +1,6 @@
+.profile {
+  color: var(--white);
+  font-size: 14px;
+  text-transform: uppercase;
+  cursor: pointer;
+}

@@ -13,5 +13,5 @@ export function Icon({ name, size = 16 }: IIconProps) {
     setSrc(src)
   }, [])
 
-  return <img src={src} alt={name} style={{ width: `${size}.px`, height: `${size}.px` }} />
+  return <img src={src} className={styles.icon} alt={name} style={{ width: `${size}.px`, height: `${size}.px` }} />
 }

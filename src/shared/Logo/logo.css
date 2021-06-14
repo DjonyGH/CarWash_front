@@ -1,0 +1,12 @@
+.logo {
+  font-size: 48px;
+  font-weight: bold;
+  color: var(--white);
+  position: absolute;
+  left: 200px;
+  top: 130px;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+  z-index: 5;
+}
