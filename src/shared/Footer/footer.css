@@ -8,4 +8,19 @@
 .phone {
   font-size: 16px;
   color: var(--white);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.phone img {
+  margin-right: 10px;
+}
+
+.text {
+  width: 0px;
+  overflow: hidden;
+  color: var(--white);
+}
+.phone:hover .text {
+  width: 120px;
 }

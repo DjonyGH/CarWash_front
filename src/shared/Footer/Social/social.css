@@ -19,6 +19,11 @@
   margin-right: 50px;
 }
 .link {
-  text-decoration: none;
-  color: var(--white);
+  width: 28px;
+  height: 28px;
+  /* text-decoration: none; */
+  /* color: var(--white); */
+  /* background-color: var(--white); */
+  /* mask-image: url(../../../assets/img/instagram.svg);
+  box-shadow: 0 0 10px var(--white); */
 }
