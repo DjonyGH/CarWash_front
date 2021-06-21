@@ -1,0 +1,21 @@
+@font-face {
+  font-family: Roboto; /* Имя шрифта */
+  src: url(../assets/fonts/Roboto/Roboto-Regular.ttf); /* Путь к файлу со шрифтом */
+}
+
+:root {
+  --black: #222222;
+  --white: #ffffff;
+  --blue: #08afe6;
+  --darkBlue: #0c2850;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background: var(--black);
+  margin: 0;
+  padding: 0;
+  font-family: Roboto;
+  color: var(--white);
+}
