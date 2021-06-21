@@ -16,6 +16,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, '../public/server'),
     filename: 'server.js',
+    publicPath: '/static/',
   },
   module: {
     rules: [
