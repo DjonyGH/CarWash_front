@@ -1,0 +1,13 @@
+.card_layout {
+  width: 1200px;
+  height: 600px;
+  border-radius: 5px;
+  border: 2px solid var(--white);
+  box-shadow: 0 0 40px var(--blue);
+  padding: 20px 40px;
+  background: var(--black);
+}
+.bg {
+  background: url('../../assets/img/bg-card.jpg');
+  background-size: cover;
+}

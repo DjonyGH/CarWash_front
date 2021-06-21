@@ -1,5 +1,5 @@
 import styles from './MainLayout.module.css'
-import HeadComponent from '../HeadComponent/HeadComponent'
+import HeadComponent from '../../components/HeadComponent/HeadComponent'
 import React from 'react'
 
 interface IMainLayoutProps {
